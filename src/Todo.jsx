@@ -8,7 +8,9 @@ import ListerTodo from './component/ListerTodo'
 const Todo = () => {
 
     return (
+        
         <View style={styles.container}>
+            <Text style={styles.todoTitle} >To Do List</Text>
             < AddTodo />
             < ListerTodo />
         </View>
