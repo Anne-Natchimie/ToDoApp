@@ -7,7 +7,7 @@ const App = () => {
 
   return (
     <View>
-      <Test />
+      <Todo />
     </View>
   )
 }
