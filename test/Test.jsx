@@ -42,7 +42,7 @@ const Test = () => {
         */
 
         <View>
-            
+            <Text>Test</Text>
         </View>
 
     )
