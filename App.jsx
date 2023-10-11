@@ -6,7 +6,7 @@ import Test from './test/Test'
 const App = () => {
 
   return (
-    <View>
+    <View >
       <Test />
     </View>
   )
